@@ -18,3 +18,13 @@
 
 **Link(s) to work**
 No links!
+
+
+### Day 3: January 25th, Monday
+
+**Today's Progress**: Refactored most mesh analysis stuff into MeshAnalyserUtils and almost finished work on a more effeicient MeshAnalyser (1 loop > 2 loops). Also accidentally introduced a bug.
+
+**Thoughts** I gotta get this done earlier in the day, doing it just before 24 kills me. Set a timer, mute *everything*. Friends and family can wait 1 hour.
+
+**Link(s) to work**
+1. [Tweet with pics of bug](https://twitter.com/MarrMany/status/1353832309208866816)
