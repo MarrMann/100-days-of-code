@@ -28,3 +28,13 @@ No links!
 
 **Link(s) to work**
 1. [Tweet with pics of bug](https://twitter.com/MarrMany/status/1353832309208866816)
+
+
+### Day 3: January 26th, Tuesday
+
+**Today's Progress**: Finished refactoring and fixed existing bugs. Slowly started work on hole detection
+
+**Thoughts** Muting everything worked, but I feel super fucking stressed with everything I have to do every day already. Let's see tomorrow...
+
+**Link(s) to work**
+1. [Tweet with pics of no bugs](https://twitter.com/MarrMany/status/1354167129524891650)
