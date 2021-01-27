@@ -30,7 +30,7 @@ No links!
 1. [Tweet with pics of bug](https://twitter.com/MarrMany/status/1353832309208866816)
 
 
-### Day 3: January 26th, Tuesday
+### Day 4: January 26th, Tuesday
 
 **Today's Progress**: Finished refactoring and fixed existing bugs. Slowly started work on hole detection
 
@@ -38,3 +38,13 @@ No links!
 
 **Link(s) to work**
 1. [Tweet with pics of no bugs](https://twitter.com/MarrMany/status/1354167129524891650)
+
+
+### Day 5: January 267h, Wednestay
+
+**Today's Progress**: I'm a grade a retard today and couldn't figure out how to detect holes, no progress.
+
+**Thoughts** I hate banging my head against a wall, hope today will be better.
+
+**Link(s) to work**
+No.
