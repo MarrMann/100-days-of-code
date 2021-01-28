@@ -40,11 +40,21 @@ No links!
 1. [Tweet with pics of no bugs](https://twitter.com/MarrMany/status/1354167129524891650)
 
 
-### Day 5: January 267h, Wednestay
+### Day 5: January 27th, Wednesday
 
 **Today's Progress**: I'm a grade a retard today and couldn't figure out how to detect holes, no progress.
 
 **Thoughts** I hate banging my head against a wall, hope today will be better.
+
+**Link(s) to work**
+No.
+
+
+### Day 6: January 28th, Thursday
+
+**Today's Progress**: Got over my retardation and figured out a super smooth way to figure out if something is a hole. Made an Edge entity class
+
+**Thoughts** Finding the simplest solution is often a good thing, it just takes a bit of time.
 
 **Link(s) to work**
 No.
