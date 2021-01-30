@@ -58,3 +58,25 @@ No.
 
 **Link(s) to work**
 No.
+
+
+### Day 7: January 29th, Friday
+
+**Today's Progress**: Thought I found a really nice way to find holes and their direction, turns out I was wrong. Didn't have enough time to do exactly 1 hour today either.
+
+**Thoughts** Welp, back to the drawing board.
+
+**Link(s) to work**
+No.
+
+
+### Day 8: January 30th, Saturday
+
+**Today's Progress**: Went back to detecting clockwise/counterclockwise by using an algorithm which gets the area*2 of the polygon. Negative numbers mean it's a hole!
+Holes are now getting bound to their belonging islands so each island class contains the edge and hole.
+
+**Thoughts** I really like working on a laptop. Maybe it's the limiting factor of only having 1 screen? The shitty mouse meaning you use more shortcuts? Idk...
+
+**Link(s) to work**
+1. [Proof!](https://twitter.com/MarrMany/status/1355655665902039040)
+2. [StackOverflow answer (much love)](https://stackoverflow.com/questions/1165647/how-to-determine-if-a-list-of-polygon-points-are-in-clockwise-order)
