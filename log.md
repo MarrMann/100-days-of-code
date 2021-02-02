@@ -58,3 +58,43 @@ No.
 
 **Link(s) to work**
 No.
+
+
+### Day 7: January 29th, Friday
+
+**Today's Progress**: Hole finding.
+
+**Thoughts** Don't remember.
+
+**Link(s) to work**
+No.
+
+
+### Day 8: January 30th, Saturday
+
+**Today's Progress**: Hole finding.
+
+**Thoughts** Don't remember.
+
+**Link(s) to work**
+1. [Tweet with pics](https://twitter.com/MarrMany/status/1355655665902039040)
+
+
+### Day 9: January 31st, Sunday
+
+**Today's Progress**: I don't actually remember, writing this on day 10.
+
+**Thoughts** None.
+
+**Link(s) to work**
+No.
+
+
+### Day 10: February 2nd, Tuesday
+
+**Today's Progress**: Refractored Edge class into Edge, ExtrudedEdge, and GridEdge. Added methods for extruding edges.
+
+**Thoughts** Looking forward to testing extrusion tomorrow! Need to figure out how to connect edges, but should be pretty simple.
+
+**Link(s) to work**
+No.
