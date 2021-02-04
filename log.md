@@ -98,3 +98,13 @@ No.
 
 **Link(s) to work**
 No.
+
+
+### Day 11: February 4th, Thursday
+
+**Today's Progress**: Extruded edges succesfully!
+
+**Thoughts** Missed another day but oh boy I made a lotta progress today! Extrusion works! I'll have to double check a few things, but for now I'm just stoked that it works!
+
+**Link(s) to work**
+1. [Tweet](https://twitter.com/MarrMany/status/1357407961337970689)
