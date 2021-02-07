@@ -108,3 +108,23 @@ No.
 
 **Link(s) to work**
 1. [Tweet](https://twitter.com/MarrMany/status/1357407961337970689)
+
+
+### Day 12: February 5th, Friday
+
+**Today's Progress**: Fixed an off-by-one bug
+
+**Thoughts** Prolly gonna have to do a bit more bug-fixing and making a function for filling holes.
+
+**Link(s) to work**
+Nope!
+
+
+### Day 13: February 7th, Sunday
+
+**Today's Progress**: Fixed a small scaling issue, played around with extrusion.
+
+**Thoughts** I really needed the weekend off so it was good to just play around with the tool rather than making big changes/progress.
+
+**Link(s) to work**
+1. [Twittytweet](https://twitter.com/MarrMany/status/1358468721405263875)
