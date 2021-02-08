@@ -128,3 +128,13 @@ Nope!
 
 **Link(s) to work**
 1. [Twittytweet](https://twitter.com/MarrMany/status/1358468721405263875)
+
+
+### Day 14: February 8th, Monday
+
+**Today's Progress**: Corrected stuff in my pull request and finished the merge. Then started implementing heightmaps.
+
+**Thoughts**: Heightmaps should be real easy tbh. I'm getting pretty bored at home and behind schedule with other stuff tho :(
+
+**Link(s) to work**
+Not today my friend!
