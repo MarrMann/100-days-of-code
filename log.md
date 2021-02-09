@@ -138,3 +138,13 @@ Nope!
 
 **Link(s) to work**
 Not today my friend!
+
+
+### Day 15: February 9th, Tuesday
+
+**Today's Progress**: First iteration of heightmaps.
+
+**Thoughts**: Took a little longer than expected, plus today was a super unmotivated day, but hey I managed to do this at least. Need good sleep and waking up earlier.
+
+**Link(s) to work**
+1. [TweetMcTweet](https://twitter.com/MarrMany/status/1359265285115633668)
