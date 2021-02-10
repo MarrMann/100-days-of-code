@@ -157,4 +157,4 @@ Not today my friend!
 **Thoughts**: I kinda want to work on performance, but I don't see a way to improve it without making the code less readable. This'll do for now.
 
 **Link(s) to work**
-1. [What's that face?](https://twitter.com/MarrMany/status/1359601132717432841)
+1. [What's with the face?](https://twitter.com/MarrMany/status/1359601132717432841)
