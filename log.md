@@ -148,3 +148,13 @@ Not today my friend!
 
 **Link(s) to work**
 1. [TweetMcTweet](https://twitter.com/MarrMany/status/1359265285115633668)
+
+
+### Day 16: February 10th, Wednesday
+
+**Today's Progress**: Fixed a buncha bugs for heightmaps.
+
+**Thoughts**: I kinda want to work on performance, but I don't see a way to improve it without making the code less readable. This'll do for now.
+
+**Link(s) to work**
+1. [What's that face?](https://twitter.com/MarrMany/status/1359601132717432841)
