@@ -158,3 +158,23 @@ Not today my friend!
 
 **Link(s) to work**
 1. [What's with the face?](https://twitter.com/MarrMany/status/1359601132717432841)
+
+
+### Day 17: February 11th, Thursday
+
+**Today's Progress**: Researched linear interpolation for marching squares.
+
+**Thoughts**: I think I get it, I found an easy way to convert the formular to my system, gonna give it a try.
+
+**Link(s) to work**
+1. [Metaballs and Marching Squares (not made by me, this was my research)](http://jamie-wong.com/2014/08/19/metaballs-and-marching-squares/)
+
+
+### Day 18: February 13th, Saturday
+
+**Today's Progress**: Attempted to implement interpolation, sort of worked.
+
+**Thoughts**: I'm sure I've done something wrong, it's like it has the opposite effect of what I want so I'm gonna look into that.
+
+**Link(s) to work**
+1. [Confusing tweet, confusing image](https://twitter.com/MarrMany/status/1360686476586016768)
