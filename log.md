@@ -178,3 +178,13 @@ Not today my friend!
 
 **Link(s) to work**
 1. [Confusing tweet, confusing image](https://twitter.com/MarrMany/status/1360686476586016768)
+
+
+### Day 19: February 14th, Sunday
+
+**Today's Progress**: Holy fuck I got interpolation working and it's so fucking good what. This is the biggest milestone on this project so far by a fucking longshot.
+
+**Thoughts**: What the fuck it actually works. This was the task I was dreading the most, I thought this would take me WEEKS of headaches to get working, instead it took... 3 hours spread across 3 days lmao.
+
+**Link(s) to work**
+1. [Best tweet](https://twitter.com/MarrMany/status/1361038996269371398)
