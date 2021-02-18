@@ -188,3 +188,13 @@ Not today my friend!
 
 **Link(s) to work**
 1. [Best tweet](https://twitter.com/MarrMany/status/1361038996269371398)
+
+
+### Day 19-22: February 15-18, Monday-Thursday
+
+**Today's Progress**: Refactored and fixed Grid into IGrid, BaseGrid, and SmoothGrid.
+
+**Thoughts**: Maaan refactoring is demotivating for me, but I can't deny it's so much easier to work with now.
+
+**Link(s) to work**
+1. [Switching between grids](https://twitter.com/MarrMany/status/1362509222051799045)
