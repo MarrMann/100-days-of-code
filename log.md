@@ -198,3 +198,10 @@ Not today my friend!
 
 **Link(s) to work**
 1. [Switching between grids](https://twitter.com/MarrMany/status/1362509222051799045)
+
+
+### Day 23-24: February 19 and 21, Friday and Sunday
+
+**Today's Progress**: Started working on flatshaded meshes
+
+**Thoughts**: Started to feel like I was hitting a wall with all the refactoring, so I decided to work on flatshading instead and refactor as I go.
