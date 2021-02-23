@@ -205,3 +205,13 @@ Not today my friend!
 **Today's Progress**: Started working on flatshaded meshes
 
 **Thoughts**: Started to feel like I was hitting a wall with all the refactoring, so I decided to work on flatshading instead and refactor as I go.
+
+
+### Day 25: February 23rd, Tuesday
+
+**Today's Progress**: Finished flatshading
+
+**Thoughts**: Still feeling super un-motivated and stuck, I basically picked flatshading cuz I felt it was easy. I'm considering taking a break and working on a website instead.
+
+**Link(s) to work**
+1. [Flatshaded image](https://twitter.com/MarrMany/status/1364336630815985664)
